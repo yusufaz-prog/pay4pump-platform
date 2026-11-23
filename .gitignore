@@ -1,0 +1,12 @@
+**/node_modules/
+**/dist/
+**/.env
+**/.env.*
+!**/.env.example
+frontend/backup/
+
+# Frontend historical backups
+frontend/src/*.backup
+frontend/src/*.before-*
+frontend/src/*.pre-*
+frontend/*.backup
